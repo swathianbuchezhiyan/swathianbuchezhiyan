@@ -38,7 +38,7 @@ I am a Computer Science student passionate about Python, Machine Learning, Data 
 ## Projects
 
 ### Smart Token Queue Management System (DSA Project)
-https://github.com/swathianbuchezhiyan/Smart-Token-Queue-Management-System-DSA-Project
+https://github.com/swathianbuchezhiyan/Smart-Token-Queue-Management-System-DSA-Project-.git
 
 ### AI Career Guidance and Skill Gap Analyzer
 https://github.com/swathianbuchezhiyan/AI-Career-Guidance-Skill-Gap-Analyzer
